@@ -1,2 +1,2 @@
-FROM  postgres:16.8-bullseye
+FROM  postgres:16.8
 MAINTAINER winter
